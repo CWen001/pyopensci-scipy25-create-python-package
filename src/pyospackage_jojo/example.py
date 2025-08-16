@@ -42,3 +42,9 @@ def minus_numbers(a: float, b: float) -> float:
     """
 
     return a-b
+
+def multify_numbers(a:float, b:float) -> float:
+    """
+    Two numbers multiply.
+    """
+    return a*b
