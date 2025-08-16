@@ -48,3 +48,6 @@ def multify_numbers(a:float, b:float) -> float:
     Two numbers multiply.
     """
     return a*b
+
+def print_hello() -> str:
+    print("hello")
